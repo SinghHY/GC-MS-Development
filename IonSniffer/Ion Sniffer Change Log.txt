@@ -1,0 +1,4 @@
+Ion Sniffer 10.2.3 Changelog:
+QRD-64 - Had to change Ion Sniffer to print the FP asynchonously if the user presses print on the AutoCal FP. Otherwise, the file prompt will hold up execution.
+
+********************************************************************************************************
